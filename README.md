@@ -2,7 +2,7 @@
 Examen Piloto
 
    # EXAMEN FINAL 12-DIC-24 TURNO NOCHE
-   # REGULAR INCOMPLETO
+   # REGULAR COMPLETO
    ## TECNICATURA DE DESPACHO // COMERC SEGUROS // RECURSOS DIGITALES
    
    ## Plan de Marketing digital tilizando la plataformacon Google Ads.
